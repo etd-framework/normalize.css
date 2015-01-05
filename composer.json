@@ -1,12 +1,13 @@
 {
-"name": "etdsolutions/normalize.css",
-"description": "Shim repository for Normalize.css",
-"homepage": "http://necolas.github.io/normalize.css/",
-"authors": [
-  {
-    "name": "Nicolas Gallagher"
-  },
-  {
-    "name": "Jonathan Neal"
-  }
-]
+  "name": "etdsolutions/normalize.css",
+  "description": "Shim repository for Normalize.css",
+  "homepage": "http://necolas.github.io/normalize.css/",
+  "authors": [
+    {
+      "name": "Nicolas Gallagher"
+    },
+    {
+      "name": "Jonathan Neal"
+    }
+  ]
+}
